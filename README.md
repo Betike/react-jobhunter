@@ -270,3 +270,4 @@ Az elkészült program beadása a Canvasen történik, és két dolgot kell ide 
 - [x] Plusz feladat: Modalban jelenik meg az oldal valamely része (vagy az álláshirdetés leírása, vagy a az álláshirdetésre jelentkező emberek listája, akár a profiljai) (+1pt)
 "# jobhunter" 
 "# react-jobhunter" 
+"# react-jobhunter" 
