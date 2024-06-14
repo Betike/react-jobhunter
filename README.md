@@ -268,3 +268,4 @@ Az elkészült program beadása a Canvasen történik, és két dolgot kell ide 
 - [x] Plusz feladat: az álláshirdetések listája infinite-scrollinggal jelenik meg (+2pt)
 - [x] Plusz feladat: az álláshirdetések létrehozásánál a munkáltató egy range-sliderrel tudja megadni a fizetés minimum és maximum értékét (+2pt)
 - [x] Plusz feladat: Modalban jelenik meg az oldal valamely része (vagy az álláshirdetés leírása, vagy a az álláshirdetésre jelentkező emberek listája, akár a profiljai) (+1pt)
+"# jobhunter" 
