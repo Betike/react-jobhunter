@@ -5,8 +5,8 @@
 Kérlek, töltsétek ki az adataitokkal beadás előtt!
 
 ```
-<Hallgató neve>
-<Neptun kódja>
+Tóth Levente
+OHH5Z8
 Kliensoldali webprogramozás - beadandó
 Ezt a megoldást a fent írt hallgató küldte be és készítette a Kliensoldali webprogramozás kurzus számonkéréséhez.
 Kijelentem, hogy ez a megoldás a saját munkám. Nem másoltam vagy használtam harmadik féltől
